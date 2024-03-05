@@ -69,56 +69,56 @@
 
 ### Part 4: Action Plan
 
-**Steps to Achieve Short-term Goals**:
-    __Complete Codespace Academy Course (3 Months)__
+1. **Steps to Achieve Short-term Goals:**
+    - __Complete Codespace Academy Course (3 Months)__
         - **Week 1-4**: Review course syllabus and schedule. Begin coursework focusing on foundational topics.
         - **Week 5-8**: Dive deeper into advanced topics. Engage with online forums for additional support.
         - **Week 9-12**: Wrap up remaining modules and assignments. Review key concepts.
-    __Research and Apply to Agencies (Ongoing)__
+    - __Research and Apply to Agencies (Ongoing)__
         - **Week 1-12**: Research reputable agencies, including Offerzen. Tailor application materials.
-    __Secure Entry-Level Software Developer Position (By End of Year)__
+    - __Secure Entry-Level Software Developer Position (By End of Year)__
         - **Week 13-16**: Begin actively applying to target agencies. Prepare for technical interviews.
         - **Week 17-20**: Attend interviews and networking events. Negotiate job offers.
         - **Week 21-24**: Evaluate offers and accept position aligning with career goals.
-    __Monitoring and Evaluation (Throughout)__
+    - __Monitoring and Evaluation (Throughout)__
         - Regularly review progress towards goals.
         - Adjust action plan based on feedback and challenges encountered.
     
-**Preparation for Long-term Goals**:
-    __Continuous Learning and Skill Development__
+2. **Preparation for Long-term Goals**:
+   -  __Continuous Learning and Skill Development__
         - **Education**: Pursue advanced degrees or certifications relevant to my chosen specialization.
         - **Training**: Attend workshops, seminars, and online courses to stay updated on emerging technologies and industry trends.
         - **Self-Study**: Dedicate time for self-study and practice to enhance technical skills and domain knowledge.
-    __Professional Experience and Expertise__
+    - __Professional Experience and Expertise__
         - **Hands-on Experience**: Seek opportunities for challenging projects and real-world problem-solving to build practical skills.
         - **Specialization**: Focus on developing expertise in a specific area of software development through projects, research, and collaboration.
         - **Mentorship**: Seek mentorship from experienced professionals in my chosen field to gain insights and guidance.
-    __Networking and Community Engagement__
+    - __Networking and Community Engagement__
         - **Industry Events**: Attend conferences, meetups, and networking events to connect with peers and industry leaders.
         - **Online Communities**: Participate in online forums, discussion groups, and open-source projects to collaborate with like-minded individuals and share knowledge.
         - **Contributions**: Contribute to the software development community through blogging, speaking engagements, or open-source contributions.
-    __Leadership and Entrepreneurship__
+   -  __Leadership and Entrepreneurship__
         - **Leadership Skills**: Develop leadership and management skills through training programs, workshops, and practical experience.
         - **Entrepreneurship**: Gain knowledge and experience in business management, marketing, and entrepreneurship to pursue ventures in the software industry.
         - **Innovation**: Foster a culture of innovation and creativity within teams and organizations, encouraging experimentation and risk-taking.
 
 ### Part 5: Reflection on Challenges and Opportunities
 
-**Anticipated Challenges**:
+- __Anticipated Challenges:__
     - **Time Constraints**: Balancing work, study, and personal commitments may limit the time available for pursuing educational opportunities and skill development.
     - **Financial Constraints**: Funding advanced degrees, certifications, or attending industry events may pose financial challenges.
     - **Competition**: Facing competition from other candidates with similar qualifications and experience for job opportunities or leadership positions.
     - **Technical Challenges**: Dealing with complex technical concepts or encountering difficulties in implementing solutions during project work.
     - **Work-Life Balance**: Struggling to maintain a healthy work-life balance while pursuing ambitious career goals.
 
-__Strategies to Overcome Challenges__
+- __Strategies to Overcome Challenges__
    - **Time Management**: Prioritize tasks, set achievable goals, and establish a structured study schedule to make efficient use of time.
    - **Financial Planning**: Research scholarships, grants, or employer-sponsored education programs to offset educational expenses.
    - **Continuous Learning**: Stay updated on industry trends, acquire in-demand skills, and differentiate oneself from competitors through continuous learning and professional development.
    - **Seek Support and Mentorship**: Seek guidance and support from mentors, industry professionals, or support networks to navigate technical challenges and career decisions.
    - **Self-Care and Well-Being**: Prioritize self-care activities, establish boundaries, and practice stress management techniques to maintain a healthy work-life balance and prevent burnout.
 
-**Opportunities for Growth**:
+- **Opportunities for Growth**:
     - Applying for scholarships listen on zabursaries website to study at a university.
     - Getting certifications online from sites like freecodecamp, google and Amazon.
     - Attending networking events posted for your area.
