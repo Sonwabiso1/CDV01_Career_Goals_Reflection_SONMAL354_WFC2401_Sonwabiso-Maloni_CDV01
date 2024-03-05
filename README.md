@@ -1,4 +1,4 @@
-# Career Goals Reflection Template
+# Career Goals Reflection
 
 ### Personal Information
 
